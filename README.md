@@ -8,7 +8,7 @@ Build a webclient run in cmd:
 - Download resource from a URL
 - Single connection
 - Multirequest
-- Multiconnection
+- Multiconnection by multithreading
 ## Tools
 - Used languages: C# only
 - Framework: .Net version 6.0
