@@ -11,3 +11,5 @@ Build a webclient run in cmd:
 - Multiconnection
 
 Used languages: C# only
+Framework: .Net version 6.0
+IDE: Visual Studio 2022
