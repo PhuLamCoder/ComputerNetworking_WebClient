@@ -9,7 +9,7 @@ Build a webclient run in cmd:
 - Single connection
 - Multirequest
 - Multiconnection
-
-+ Used languages: C# only
-+ Framework: .Net version 6.0
-+ IDE: Visual Studio 2022
+## Tools
+- Used languages: C# only
+- Framework: .Net version 6.0
+- IDE: Visual Studio 2022
